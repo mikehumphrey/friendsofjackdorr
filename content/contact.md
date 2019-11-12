@@ -3,6 +3,8 @@ title = "Contact"
 layout = "single-para"
 +++
 
-To contact us please use the following information: 
+Phone: 541-778-4960
 
-Or use the form below.
+Email: trishadorr@gmail.com
+
+[Friends of Jack Facebook page!](https://www.facebook.com/groups/262701727595775/) 

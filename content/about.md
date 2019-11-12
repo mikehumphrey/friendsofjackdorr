@@ -2,26 +2,6 @@
 title = "About"
 layout = "single-para"
 +++
+A boy from Ashland, Oregon, Jack was diagnosed with an aggressive Astrocytoma brain tumor on his spine in January of 2013 at the age of 8 years old. Shortly thereafter Jack had some of the tumor resected and started treatment that included radiation and chemotherapy. Through all that he endured in treatment and the side effects of his disease, Jack remained an active, playful and happy boy. Sadly Jack's condition worsened in April of 2014 as his brain tumor progressed. He slowly lost the use of his legs and his hands as the cancer took over. The community of Ashland, Oregon and the surrounding area showed tremendous love and support for Jack and his family.
 
-This theme was made with Hugo v0.17 on a Mac. It was coded mostly using Textmate and Firefox. It includes a number of features that will help a developer create and manage websites. 
-
-- Responsive design mobile ready
-- Custom CSS ability
-- Pre defined archetypes
-- Markdown
-
-To install this theme you need to download the latest version of [Hugo](https://gohugo.io) from their website. Follow the instructions to install and configure Hugo for your system. 
-
-One you have Hugo installed run the following in your project directory from the Command Line. 
-
-	$ hugo new site example 
-
-Once this has run, you will have a new hugo site. Congrats. We are not finished yet, though. 
-
-Within your themes directory run the following command. 
-
-	$ git clone https://github.com/hdcdstr8fwd/foundation-theme.git
-
-This will place the theme files within the project theme folder. Have a look at the example config.toml to see how to configure the site.
-
-Thanks again to [Gary](https://www.youtube.com/channel/UCNUxl0ffgmbC_nK2rSmFTNg) for making the video to scaffold out a basic foundation project, feel free to use and modify this theme as you wish. 
+Jack passed away at the age of 10 on May 16, 2014, wrapped in the loving arms of his mother Trish. We will always remember the boy with the beautiful eyes, incredible smile, and loving heart. We love you Jack.

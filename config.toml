@@ -1,5 +1,5 @@
 baseurl = "/"
-author = "Howard Colin"
+author = "Michael Humphrey"
 title = "Friends of Jack Dorr"
 languageCode = "en-us"
 theme = "foundation-theme"
@@ -7,27 +7,27 @@ enableRobotsTXT = true
 SectionPagesMenu = ["main", "social"]
 
 [params.meta]
-description = "Hugo and Foundation mobile enabled theme."
-keywords = "foundation6, hugo, responsive, theme, mobile, developer"
+description = "Here we can share updates for fundraisers and events."
+keywords = "jack dorr, ashland oregon, "
 
 [params.hero]
-herotitle = "Welcome! to Friend's of Jack Dorr Foundation"
-herodiscription = "A simple, mobile friendly theme for Hugo. Built using Foundation."
+herotitle = "Welcome to Friends of Jack Dorr"
+herodiscription = "Here we can share updates for fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
 btnblue = "Learn More"
-btngreen = "Send Us a Message"
+btngreen = "Donate Now"
 
 [params.main]
-contentOneTitle = "Easy to use"
-contentTwoTitle = "See Gary's Tutorial"
+contentOneTitle = "Stay Connected!"
+contentTwoTitle = "Make a Donation. "
 
-contentOneBody = "A simple and easy to use hugo theme that anyone can expand and develop further. The design was ported to a Hugo Theme from the youtube video series posted by Gary Jennings. You can easily change the layout of this section in the main.html partial in the themes dir"
+contentOneBody = "Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)"
 
-contentTwoBody = "You can see Gary's tutorial [here:](https://www.youtube.com/watch?v=2QcpR6cHpnk) *Markdown* can be used in these two panels to quickly **style** content."
+contentTwoBody = "You can donate [here:](https://www.paypal.com/pools/c/8jSnkG8SBb) through a PayPal Pool created for Friends of Jack Dorr."
 
-[params.footer]
-phone = "02920 000000"
-email = "hello@example.com"
-address = "123 Busy Street"
+[params.footer]  
+phone = "541-778-4960"
+email = "trishadorr@gmail.com"
+ein = "84-2166095"
 
 [[menu.main]]
 name = "About"
@@ -38,22 +38,13 @@ name = "Contact"
 url = "/contact"
 
 [[menu.main]]
-name = "Services"
-url = "/services"
+name = "Events"
+url = "/events"
 
 [[menu.social]]
 name = "Facebook"
-url = "http://facebook.com"
-
-[[menu.social]]
-name = "Twitter"
-url = "http://twitter.com"
+url = "https://www.facebook.com/groups/262701727595775/"
 
 [[menu.social]]
 name = "Instagram"
 url = "http://instagram.com"
-
-[[menu.social]]
-name = "Github"
-url = "http://github.com"
-
