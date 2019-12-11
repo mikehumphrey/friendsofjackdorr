@@ -5,6 +5,10 @@ enableRobotsTXT = true
 languageCode = "en-us"
 theme = "foundation-theme"
 title = "Friends of Jack Dorr"
+[[menu.main]]
+name = "Events"
+url = "/events"
+weight = 1
 [[menu.social]]
 name = "Instagram"
 url = "http://instagram.com"
@@ -20,8 +24,8 @@ phone = "541-778-4960"
 [params.hero]
 btnblue = "Learn More"
 btngreen = "Donate Now"
-herodiscription = "![](/uploads/Jack-Dorr-2.jpg) Here we can share updates for fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
-herotitle = "Welcome to Friends of Jack Dorr"
+herodiscription = "Get updates about the fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
+herotitle = "Welcome to FOJD"
 [params.main]
 contentOneBody = "Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)"
 contentOneTitle = "Stay Connected!"
