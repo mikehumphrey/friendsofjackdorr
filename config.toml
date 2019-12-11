@@ -1,50 +1,36 @@
-baseurl = "/"
+SectionPagesMenu = ["main", "social"]
 author = "Michael Humphrey"
-title = "Friends of Jack Dorr"
+baseurl = "/"
+enableRobotsTXT = true
 languageCode = "en-us"
 theme = "foundation-theme"
-enableRobotsTXT = true
-SectionPagesMenu = ["main", "social"]
-
-[params.meta]
-description = "Here we can share updates for fundraisers and events."
-keywords = "jack dorr, ashland oregon, "
-
-[params.hero]
-herotitle = "Welcome to Friends of Jack Dorr"
-herodiscription = "Here we can share updates for fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
-btnblue = "Learn More"
-btngreen = "Donate Now"
-
-[params.main]
-contentOneTitle = "Stay Connected!"
-contentTwoTitle = "Make a Donation. "
-
-contentOneBody = "Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)"
-
-contentTwoBody = "You can donate [here:](https://www.paypal.com/pools/c/8jSnkG8SBb) through a PayPal Pool created for Friends of Jack Dorr."
-
-[params.footer]  
-phone = "541-778-4960"
-email = "trishadorr@gmail.com"
-ein = "84-2166095"
-
-[[menu.main]]
-name = "About"
-url = "/about"
-
-[[menu.main]]
-name = "Contact"
-url = "/contact"
-
+title = "Friends of Jack Dorr"
 [[menu.main]]
 name = "Events"
 url = "/events"
-
-[[menu.social]]
-name = "Facebook"
-url = "https://www.facebook.com/groups/262701727595775/"
-
+weight = 1
 [[menu.social]]
 name = "Instagram"
 url = "http://instagram.com"
+weight = 1
+[[menu.social]]
+name = "Facebook"
+url = "https://www.facebook.com/groups/262701727595775/"
+weight = 2
+[params.footer]
+ein = "84-2166095"
+email = "trishadorr@gmail.com"
+phone = "541-778-4960"
+[params.hero]
+btnblue = "Learn More"
+btngreen = "Donate Now"
+herodiscription = "Here we can share updates for fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
+herotitle = "Welcome to Friends of Jack Dorr"
+[params.main]
+contentOneBody = "Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)"
+contentOneTitle = "Stay Connected!"
+contentTwoBody = "You can donate [here:](https://www.paypal.com/pools/c/8jSnkG8SBb) through a PayPal Pool created for Friends of Jack Dorr."
+contentTwoTitle = "Make a Donation. "
+[params.meta]
+description = "Here we can share updates for fundraisers and events."
+keywords = "jack dorr, ashland oregon, "
