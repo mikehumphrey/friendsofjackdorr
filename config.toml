@@ -24,7 +24,7 @@ phone = "541-778-4960"
 [params.hero]
 btnblue = "Learn More"
 btngreen = "Donate Now"
-herodiscription = "Here we can share updates for fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
+herodiscription = "![](/uploads/Jack-Dorr-2.jpg) Here we can share updates for fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival!"
 herotitle = "Welcome to Friends of Jack Dorr"
 [params.main]
 contentOneBody = "Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)"
