@@ -28,7 +28,7 @@ herodiscription = "Get updates about the fundraisers and events such as Jack's D
 herotitle = "Welcome to FOJD"
 [params.main]
 contentOneBody = "Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)"
-contentOneTitle = "Stay Connected!"
+contentOneTitle = "Follow us on Facebook!"
 contentTwoBody = "You can donate [here:](https://www.paypal.com/pools/c/8jSnkG8SBb) through a PayPal Pool created for Friends of Jack Dorr."
 contentTwoTitle = "Make a Donation. "
 [params.meta]
