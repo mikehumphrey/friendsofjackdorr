@@ -7,6 +7,9 @@ weight = 3
 +++
 ![](/uploads/Jack-Dorr-2.jpg)
 
-A boy from Ashland, Oregon, Jack was diagnosed with an aggressive Astrocytoma brain tumor on his spine in January of 2013 at the age of 8 years old. Shortly thereafter Jack had some of the tumor resected and started treatment that included radiation and chemotherapy. Through all that he endured in treatment and the side effects of his disease, Jack remained an active, playful and happy boy. Sadly Jack's condition worsened in April of 2014 as his brain tumor progressed. He slowly lost the use of his legs and his hands as the cancer took over. The community of Ashland, Oregon and the surrounding area showed tremendous love and support for Jack and his family.
+Friends of Jack Dorr is a non-profit organization established in 2019 to preserve the memory of Jack Dorr by various means. Some of these include:
 
-Jack passed away at the age of 10 on May 16, 2014, wrapped in the loving arms of his mother Trish. We will always remember the boy with the beautiful eyes, incredible smile, and loving heart. We love you Jack.
+* Supporting Pediatric Brain Tumor Research at OHSU’s Doernbecher Children’s Hospital. This is where Jack received treatment and loving and compassionate care.
+  * When Jack Dorr battled an aggressive brain tumor, the treatment he received at Doernbecher Children’s Hospital in Portland, OR, gave him and his family what they needed...time. “I feel very strongly that the work Doernbecher did (surgery, radiation, oncology) gave us many extra months with Jack, as I think he probably would have died almost a year sooner than he did,” said his mother, Trish. “Jack may never have had a chance at recovery, but they bought us time, and that year was one of the most important in my life.”
+* Supporting children and their families who are affected by Pediatric Cancer.
+* Contributing to children’s libraries such as the one at Helman Elementary, where Jack was a student. He was an avid reader and spent hours with a book in his lap!
