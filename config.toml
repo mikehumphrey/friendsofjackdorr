@@ -5,10 +5,6 @@ enableRobotsTXT = true
 languageCode = "en-us"
 theme = "foundation-theme"
 title = "Friends of Jack Dorr"
-[[menu.main]]
-name = "Events"
-url = "/events"
-weight = 1
 [[menu.social]]
 name = "Instagram"
 url = "http://instagram.com"

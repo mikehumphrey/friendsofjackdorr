@@ -1,6 +1,9 @@
 +++
-title = "Events"
 layout = "single-para"
+title = "Events"
+[menu.main]
+weight = 1
+
 +++
 Second Annual Dodgeball Tournament and Festival to raise money for Doernbecher's Brain Tumor Research Team and the Dorr Family Library at Helman Elementary!
 
