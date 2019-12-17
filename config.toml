@@ -1,12 +1,12 @@
 title = "Friends of Jack Dorr"
-baseURL = "https://friendsofjackdorr.org/"
+baseURL = "https://friendsofjackdorr.org"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
