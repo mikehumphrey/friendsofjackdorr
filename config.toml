@@ -29,5 +29,5 @@ enableRobotsTXT = true
   slack = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/uploads/Boys First Day of School.jpg"
+  featured_image = "/uploads/BoysFirstDayofSchool_1440x.jpg"
   recent_posts_number = 2
