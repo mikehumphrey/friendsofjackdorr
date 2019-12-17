@@ -1,9 +1,3 @@
-SectionPagesMenu = ["main", "social"]
-author = "Michael Humphrey"
-baseurl = "/"
-enableRobotsTXT = true
-languageCode = "en-us"
-theme = "ananke"
 title = "Friends of Jack Dorr"
 baseURL = "https://friendsofjackdorr.org/"
 languageCode = "en-us"
@@ -35,5 +29,5 @@ enableRobotsTXT = true
   slack = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "\uploads\Boys First Day of School.jpg"
+  featured_image = "/uploads/Boys First Day of School.jpg"
   recent_posts_number = 2
