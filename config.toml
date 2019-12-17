@@ -1,20 +1,13 @@
-title = "Friends of Jack Dorr"
-baseURL = "https://friendsofjackdorr.org"
-languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-
-MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
+MetaDataFormat = "yaml"
+Paginate = "3"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+baseURL = "https://friendsofjackdorr.org"
 enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+googleAnalytics = ""
+languageCode = "en-us"
+theme = "ananke"
+title = "Friends of Jack Dorr"
 [params]
   favicon = ""
   description = "Welcome to Friends of Jack Dorr.  Get updates about the fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival! "
