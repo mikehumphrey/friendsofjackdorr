@@ -3,7 +3,7 @@ author = "Michael Humphrey"
 baseurl = "/"
 enableRobotsTXT = true
 languageCode = "en-us"
-theme = "foundation-theme"
+theme = "ananke"
 title = "Friends of Jack Dorr"
 [menu]
 main = []
