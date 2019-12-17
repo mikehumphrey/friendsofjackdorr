@@ -1,3 +1,9 @@
+SectionPagesMenu = ["main", "social"]
+author = "Michael Humphrey"
+baseurl = "/"
+enableRobotsTXT = true
+languageCode = "en-us"
+theme = "ananke"
 title = "Friends of Jack Dorr"
 baseURL = "https://friendsofjackdorr.org/"
 languageCode = "en-us"
