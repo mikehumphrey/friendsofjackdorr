@@ -18,5 +18,9 @@ fields:
 - type: text
   name: title
   label: title
+- name: omit_header_text
+  type: boolean
+  label: Omit Header Text
+  description: Header Text no visible
 pages:
 - content/post/couchtime.md
