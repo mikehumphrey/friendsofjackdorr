@@ -11,6 +11,7 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+  description: 'Sample: /uploads/Jack-Dorr-2.jpg'
 - type: list
   name: tags
   label: tags
