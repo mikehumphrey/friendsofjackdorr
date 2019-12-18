@@ -1,6 +1,6 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/uploads/Banner-Jack-Dorr-11.jpg"
+title: 'Home: Wolcome to Friends Of Jack Dorr'
+featured_image: '/uploads/Banner-Jack-Dorr-11.jpg'
 description: The last theme you'll ever need. Maybe.
 
 ---

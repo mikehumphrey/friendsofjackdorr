@@ -5,8 +5,6 @@ featured_image: ''
 ---
 {{< figure src="/uploads/Jack-Dorr-2.jpg" title="Boy's First Day of School" >}}
 
-![](/uploads/Jack-Dorr-2.jpg)
-
 Friends of Jack Dorr is a non-profit organization established in 2019 to preserve the memory of Jack Dorr by various means. Some of these include:
 
 * Supporting [Pediatric Brain Tumor Research at OHSU’s Doernbecher Children’s Hospital](https://www.ohsu.edu/doernbecher/brain-tumors-children-and-teens). This is where Jack received treatment and loving and compassionate care.
