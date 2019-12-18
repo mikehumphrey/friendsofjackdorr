@@ -1,7 +1,9 @@
 ---
-title: "About"
-description: "Friends of Jack Dorr is a non-profit organization established in 2019 to preserve the memory of Jack Dorr by various means."
-featured_image: ''
+title: About
+description: Friends of Jack Dorr is a non-profit organization established in 2019
+  to preserve the memory of Jack Dorr by various means.
+featured_image: "/uploads/BoysFirstDayofSchool_3055x761.jpg"
+
 ---
 {{< figure src="/uploads/Jack-Dorr-2.jpg" title="Boy's First Day of School" >}}
 

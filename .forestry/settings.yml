@@ -5,13 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: "\\post\\_index.md"
+  label: Home Page
+- type: document
   path: config.toml
   label: Config
 - type: directory
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content/post
   label: Events

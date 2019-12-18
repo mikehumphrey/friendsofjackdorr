@@ -1,0 +1,26 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: featured_image
+  label: featured_image
+  description: 'Sample: /uploads/Jack-Dorr-2.jpg'
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- name: omit_header_text
+  type: boolean
+  label: Omit Header Text
+  description: Header Text no visible
+pages:
+- content/post/couchtime.md
