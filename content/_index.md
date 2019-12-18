@@ -5,6 +5,6 @@ description: Friends of Jack Dorr is a non-profit organization established in 20
   to preserve the memory of Jack Dorr.
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Friends of Jack Dorr is a non-profit organization established in 2019 to preserve the memory of Jack Dorr.
 
 ![](/uploads/Jack-Dorr-2.jpg)
