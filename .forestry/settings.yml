@@ -13,10 +13,10 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/posts
+  path: content/post
   label: Events
-  create: all
-  match: "**/*"
+  create: documents
+  match: "**/*.md"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
