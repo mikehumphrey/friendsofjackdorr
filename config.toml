@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 
 [params]
-  favicon = ""
+  favicon = "/uploads/favicon-32x32.png"
   description = "Welcome to Friends of Jack Dorr."
   facebook = "https://www.facebook.com/groups/262701727595775/"
   twitter = ""
