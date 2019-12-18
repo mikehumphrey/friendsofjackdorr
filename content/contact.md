@@ -12,6 +12,6 @@ menu:
 ---
 Phone: 541-778-4960
 
-'<a href="mailto:trishadorr@gmail.com?Subject=About%20Jack" target="_top">Send us an E-Mail</a>'
+<a href="mailto:trishadorr@gmail.com?Subject=About%20Jack" target="_top">Send us an E-Mail</a>
 
 Find us at [Friends of Jack Facebook page!](https://www.facebook.com/groups/262701727595775/)
