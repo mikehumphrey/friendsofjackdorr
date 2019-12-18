@@ -23,4 +23,5 @@ fields:
   label: Omit Header Text
   description: Header Text no visible
 pages:
+- content/contact.md
 - content/post/couchtime.md

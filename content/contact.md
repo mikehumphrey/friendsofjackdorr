@@ -4,6 +4,8 @@ featured_image: "/uploads/BoysFirstDayofSchool_3055x761.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
+date: 
+tags: []
 menu:
   main: {}
 
