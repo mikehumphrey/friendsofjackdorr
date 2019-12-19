@@ -3,16 +3,14 @@ title: Events
 date: 2017-03-02T17:00:00.000+00:00
 
 ---
-Get updates about the fundraisers and events such as Jack's Dodgeball Olympics and similar to The Jack Frost Festival
+![](/uploads/final logo.png)
 
-Second Annual Dodgeball Tournament and Festival to raise money for Doernbecher's Brain Tumor Research Team and the Dorr Family Library at Helman Elementary!
+# Supporting Children with Cancer 
 
-![](/uploads/26173061_10156151418175799_1644870327032994010_o.jpg "Dodgeball Tournament and Festival")
+When Jack Dorr battled an aggressive brain tumor, the treatment he received at Doernbecher Children’s Hospital in Portland, OR, gave him and his family what they needed…time. “I feel very strongly that the work Doernbecher did (surgery, radiation, oncology) gave us many extra months with Jack, as I think he probably would have died almost a year sooner than he did,” said his mother, Trish. “Jack may never have had a chance at recovery, but they bought us time, and that year was one of the most important in my life.” 
 
-[DodgeballOlympics11x17.pdf](https://app.forestry.io/sites/y1eoooklm1fmow/body-media//uploads/DodgeballOlympics11x17.pdf "DodgeballOlympics11x17.pdf")
+### By donating to the Friends of Jack Dorr you can help support more families like the Dorrs. 
 
-Last year we had a blast and this year is going to be even more awesome! Come join us for a fantastic day of fun-filled competition and silliness to support an important cause.
+##### Proceeds will go to Doernbecher’s Pediatric Brain Tumor Research Program.
 
 Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)
-
-OR if you know you're game, download the registration form [here: ](https://drive.google.com/file/d/1Vf6tUn4r3oFfy2hd9KT0PSI-RXYk8zFf/view?usp=sharing)
