@@ -1,33 +1,29 @@
-title = "Friends of Jack Dorr"
+DefaultContentLanguage = "en"
+MetaDataFormat = "yaml"
+Paginate = "3"
+SectionPagesMenu = "main"
 baseURL = "https://friendsofjackdorr.org"
+enableRobotsTXT = true
+googleAnalytics = ""
 languageCode = "en-us"
 theme = "ananke"
-
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = "3"
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
-
+title = "Friends of Jack Dorr"
 [params]
-  favicon = "/uploads/favicon-32x32.png"
-  description = "Welcome to Friends of Jack Dorr."
-  facebook = "https://www.facebook.com/groups/262701727595775/"
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  background_color_class = "bg-black"
-  featured_image = "/uploads/BoysFirstDayofSchool_3055x761.jpg"
-  recent_posts_number = 2
+background_color_class = "bg-black"
+description = "Welcome to Friends of Jack Dorr."
+facebook = "https://www.facebook.com/groups/262701727595775/"
+favicon = "/uploads/favicon-32x32.png"
+featured_image = "/uploads/BoysFirstDayofSchool_3055x761.jpg"
+github = ""
+gitlab = ""
+instagram = ""
+linkedin = ""
+mastodon = ""
+recent_posts_number = "3"
+slack = ""
+twitter = ""
+youtube = ""
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
