@@ -24,5 +24,4 @@ fields:
   description: Header Text no visible
 pages:
 - content/contact.md
-- content/post/couchtime.md
 - content/post/jack-s-dodgeball-olympics-2020.md
