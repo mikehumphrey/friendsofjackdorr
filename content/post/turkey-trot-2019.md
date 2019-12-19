@@ -5,7 +5,6 @@ date:
 featured_image: "/uploads/TurkeyTrotInfo.jpg"
 tags: []
 omit_header_text: false
-draft: true
 
 ---
 # Supporting Children with Cancer
