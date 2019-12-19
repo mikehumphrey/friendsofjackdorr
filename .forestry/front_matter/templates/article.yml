@@ -2,12 +2,15 @@
 label: Article
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
+- type: text
+  name: title
+  label: title
 - type: text
   name: description
   label: description
+- type: datetime
+  name: date
+  label: date
 - type: file
   name: featured_image
   label: featured_image
@@ -15,9 +18,6 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: text
-  name: title
-  label: title
 - name: omit_header_text
   type: boolean
   label: Omit Header Text
