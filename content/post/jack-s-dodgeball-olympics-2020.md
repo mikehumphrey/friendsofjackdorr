@@ -5,7 +5,6 @@ featured_image: "/uploads/DodgeballOlympics11x17.jpg"
 tags: []
 title: Jack's Dodgeball Olympics 2020
 omit_header_text: false
-draft: true
 
 ---
 Second Annual Dodgeball Tournament and Festival to raise money for Doernbecher’s Brain Tumor Research Team and the Dorr Family Library at Helman Elementary!
