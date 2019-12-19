@@ -5,7 +5,6 @@ date: 2019-12-19T09:00:00+00:00
 featured_image: "/uploads/Pints4Purpose-FOJD-11x17.jpg"
 tags: []
 omit_header_text: false
-draft: true
 
 ---
 Our sustainability mission includes a strong focus on giving back to our employees and community. It’s important to us to ensure that Standing Stone is a great place to work since our team works so hard for our business and our guests.
