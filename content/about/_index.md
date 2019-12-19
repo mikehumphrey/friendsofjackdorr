@@ -14,4 +14,4 @@ Friends of Jack Dorr is a non-profit organization established in 2019 to preserv
 * Supporting children and their families who are affected by Pediatric Cancer.
 * Contributing to children’s libraries such as the one at Helman Elementary, where Jack was a student. He was an avid reader and spent hours with a book in his lap!
 
-Donate Now by visiting the [Jack Dorr PayPal Pool]((https://paypal.me/pools/c/8jSnkG8SBb "Jack Dorr PayPal Pool")
+Donate Now by visiting the [Jack Dorr PayPal Pool](https://paypal.me/pools/c/8jSnkG8SBb "Jack Dorr PayPal Pool")
