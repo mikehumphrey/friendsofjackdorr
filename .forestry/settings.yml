@@ -7,9 +7,6 @@ sections:
 - type: document
   path: "\\post\\_index.md"
   label: Home Page
-- type: document
-  path: config.toml
-  label: Config
 - type: directory
   path: content
   label: Pages
