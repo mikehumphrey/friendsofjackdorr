@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/about/_index.md
   label: About
-  match: "**/*"
 - type: document
   path: content/contact.md
   label: Contact
@@ -16,12 +15,6 @@ sections:
   label: Events
   create: documents
   match: "*.md"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "**/*"
-  exclude: post
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
