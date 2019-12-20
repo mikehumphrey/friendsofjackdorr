@@ -7,12 +7,11 @@ sections:
 - type: document
   path: content/contact.md
   label: Contact
-  match: "**/*"
 - type: directory
   path: content/about
   label: About
-  create: all
-  match: "**/*.md"
+  create: documents
+  match: content\about\about.md
 - type: directory
   path: content
   label: Pages
