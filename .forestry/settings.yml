@@ -5,22 +5,19 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/about/*.md
-  label: About
-- type: document
   path: content/contact.md
   label: Contact
+- type: directory
+  path: content/post
+  label: Events
+  create: documents
+  match: "*.md"
 - type: directory
   path: content
   label: Pages
   create: all
   match: "**/*"
   exclude: post
-- type: directory
-  path: content/post
-  label: Events
-  create: documents
-  match: "*.md"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
