@@ -1,27 +1,15 @@
-+++
-layout = "single-para"
-title = "Contact"
-[menu.main]
-weight = 2
+---
+title: Contact
+featured_image: "/uploads/BoysFirstDayofSchool_3055x761.jpg"
+omit_header_text: false
+description: We'd love to hear from you
+type: page
+menu:
+  main: {}
 
-+++
+---
 Phone: 541-778-4960
 
-Email: trishadorr@gmail.com
+<a href="mailto:friendsofjackdorr@gmail.com?Subject=About%20Jack" target="_top">Send us an E-Mail</a>
 
-[Friends of Jack Facebook page!](https://www.facebook.com/groups/262701727595775/) 
-
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+Find us at [Friends of Jack Facebook page!](https://www.facebook.com/groups/262701727595775/)

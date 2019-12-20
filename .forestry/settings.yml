@@ -5,18 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: config.toml
-  label: Config
+  path: content/about/_index.md
+  label: About
+- type: document
+  path: content/contact.md
+  label: Contact
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/images
-  label: Images
-  create: all
-  match: "**/*"
+  path: content/post
+  label: Events
+  create: documents
+  match: "*.md"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
