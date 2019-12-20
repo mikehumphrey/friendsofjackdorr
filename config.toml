@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 MetaDataFormat = "yaml"
-Paginate = "3"
+Paginate = 3
 SectionPagesMenu = "main"
 baseURL = "https://friendsofjackdorr.org"
 enableRobotsTXT = true
