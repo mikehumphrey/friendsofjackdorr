@@ -5,13 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content\about\about.md
+  label: About
+  match: "**/*"
+- type: document
   path: content/contact.md
   label: Contact
-- type: directory
-  path: content/about
-  label: About
-  create: documents
-  match: content\about\about.md
 - type: directory
   path: content
   label: Pages
