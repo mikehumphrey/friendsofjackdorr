@@ -1,9 +1,9 @@
 ---
-date: 2020-02-08T09:00:00+00:00
+title: Jack's Dodgeball Olympics 2020
 description: Second Annual Dodgeball Tournament and Festival
+date: 2020-02-08T09:00:00+00:00
 featured_image: "/uploads/DodgeballOlympics11x17.jpg"
 tags: []
-title: Jack's Dodgeball Olympics 2020
 omit_header_text: false
 
 ---
