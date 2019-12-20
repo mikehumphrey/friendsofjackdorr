@@ -9,4 +9,4 @@ featured_image: "/uploads/BoysFirstDayofSchool_3055x761.jpg"
 
 First Try with Folder Gallery...
 
-{{< gallery dir="/uploads/Dodgeball2019" />}} {{< load-photoswipe >}}
+{{< gallery dir="/uploads/Dodgeball2019" thumb="_tn"/>}} {{< load-photoswipe >}}
