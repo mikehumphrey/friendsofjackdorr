@@ -1,7 +1,7 @@
 ---
 title: Contact
 featured_image: "/uploads/BoysFirstDayofSchool_3055x761.jpg"
-omit_header_text: true
+omit_header_text: false
 description: We'd love to hear from you
 type: page
 date: 
