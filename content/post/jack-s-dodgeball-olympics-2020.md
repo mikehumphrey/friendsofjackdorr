@@ -1,5 +1,5 @@
 ---
-date: 2019-12-18T09:00:00.000+00:00
+date: 2020-02-08T09:00:00+00:00
 description: Second Annual Dodgeball Tournament and Festival
 featured_image: "/uploads/DodgeballOlympics11x17.jpg"
 tags: []
