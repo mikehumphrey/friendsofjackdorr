@@ -4,14 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: "\\post\\_index.md"
-  label: Home Page
 - type: directory
   path: content
   label: Pages
   create: all
   match: "**/*"
+  exclude: post
 - type: directory
   path: content/post
   label: Events
