@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/about/_index.md
+  path: content/gallery/_index.md
   label: Gallery
 - type: document
   path: content/about/_index.md
