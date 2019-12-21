@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/Dodgeball2019/_index.md
+  path: content/Dodgeball2019/*.md
   label: Gallery
-  match: "**/*"
 - type: document
   path: content/about/_index.md
   label: About
