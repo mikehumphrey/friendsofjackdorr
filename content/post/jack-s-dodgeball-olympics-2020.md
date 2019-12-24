@@ -1,7 +1,7 @@
 ---
 title: Jack's Dodgeball Olympics 2020
 description: Second Annual Dodgeball Tournament and Festival
-date: 2020-02-08T09:00:00+00:00
+date: 2020-02-08T09:00:00.000+00:00
 featured_image: "/uploads/DodgeballOlympics11x17.jpg"
 tags: []
 omit_header_text: false
@@ -17,4 +17,4 @@ Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/2627
 
 OR if you know you’re game, download the registration form [here:](https://drive.google.com/file/d/1Vf6tUn4r3oFfy2hd9KT0PSI-RXYk8zFf/view?usp=sharing)
 
-[DodgeballOlympics11x17.pdf](https://app.forestry.io/sites/y1eoooklm1fmow/body-media//uploads/DodgeballOlympics11x17.pdf "DodgeballOlympics11x17.pdf")
+![](/uploads/DodgeballOlympics11x17.jpg)
