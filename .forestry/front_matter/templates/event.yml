@@ -1,0 +1,30 @@
+---
+label: Event
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: featured_image
+  label: featured_image
+  description: 'Sample: /uploads/Jack-Dorr-2.jpg'
+- type: list
+  name: tags
+  label: tags
+- name: omit_header_text
+  type: boolean
+  label: Omit Header Text
+  description: Header Text no visible
+pages:
+- content/contact.md
+- content/post/jack-s-dodgeball-olympics-2020.md
+- content/post/pints-for-a-purpose.md
+- content/post/turkey-trot-2019.md
