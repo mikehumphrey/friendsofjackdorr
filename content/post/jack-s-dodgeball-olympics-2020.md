@@ -11,12 +11,12 @@ omit_header_text: false
 
 to raise money for Doernbecher’s Brain Tumor Research Team and the Dorr Family Library at Helman Elementary!
 
+## [Register Now!!!](https://docs.google.com/forms/d/e/1FAIpQLSeqXUOfafLVZjB7q1s2rxznakhujOVQXfRtDOmoq2m32GIiSA/viewform?vc=0&c=0&w=1 "Register Now!!!")
+
 Last year we had a blast and this year is going to be even more awesome! Come join us for a fantastic day of fun-filled competition and silliness to support an important cause.
 
 ![](/uploads/Dodgeball Planning 2019_3.jpg)
 
 Find updates on the [Friends of Jack page!](https://www.facebook.com/groups/262701727595775/)
-
-OR if you know you’re game, download the registration form below:
 
 ![](/uploads/DodgeballOlympics11x17.jpg)
