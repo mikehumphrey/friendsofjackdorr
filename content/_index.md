@@ -5,6 +5,8 @@ description: Friends of Jack Dorr is a non-profit organization established in 20
   to preserve the memory of Jack Dorr.
 
 ---
+<a href="https://friendsofjackdorr.org/post/jack-s-dodgeball-olympics-2020/" class="db grow"><img src="https://friendsofjackdorr.org/uploads/Register%20Now%21%21%21.png" class="img" alt="image from Jack's Dodgeball Olympics 2020"></a>
+
 ![](/uploads/Jack-Dorr-2.jpg)
 
 Friends of Jack Dorr is a non-profit organization established in 2019 to preserve the memory of Jack Dorr, a boy from Ashland, OR who passed away after battling an aggressive brain tumor in 2014. He received treatment at OHSU’s Doernbecher Chidren’s Hospital, where neurosurgeons, neurooncologists and radiologists worked as a team to provide the best care and quality of life that they could given his diagnosis. 
