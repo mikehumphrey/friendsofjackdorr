@@ -11,7 +11,7 @@ omit_header_text: false
 
 to raise money for Doernbecher’s Brain Tumor Research Team and the Dorr Family Library at Helman Elementary!
 
-## [Register Now!!!](https://docs.google.com/forms/d/e/1FAIpQLSeqXUOfafLVZjB7q1s2rxznakhujOVQXfRtDOmoq2m32GIiSA/viewform?vc=0&c=0&w=1 "Register Now!!!") Or [Download the Form](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Vf6tUn4r3oFfy2hd9KT0PSI-RXYk8zFf%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR2l0Q1Y9L8LdN2lWfC35mCMaZfUZJaStOpc8Ws7NwqsI492481xSzI5xOs&h=AT2dpmXvWE863IXdCY8hm3lDEMRD5jYP-iNPE9rhZGNM3wxMHvnD4795cFUSr_gJW3sWZqs-DQID_Y4bi9-zkCqiV3aGTo_BDEH_R23Lec9jbnpfmmfQS-WudwAfB5wlWRM-k6XA8_kAID2Kog "Downlad the Form")
+## [Register Now!!!](https://docs.google.com/forms/d/e/1FAIpQLSeqXUOfafLVZjB7q1s2rxznakhujOVQXfRtDOmoq2m32GIiSA/viewform?vc=0&c=0&w=1 "Register Now!!!") Or [Download the Form](https://drive.google.com/open?id=1xbrJTbRWNzpf6wHNukegSIwwGOiEo0Bx "Downlad the Form")
 
 Last year we had a blast and this year is going to be even more awesome! Come join us for a fantastic day of fun-filled competition and silliness to support an important cause.
 
