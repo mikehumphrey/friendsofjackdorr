@@ -8,6 +8,6 @@ omit_header_text: false
 draft: true
 
 ---
-![](/uploads/4p3a6436-2.jpg)
+![](/uploads/4p3a6363-2.jpg)
 
-It's been two years and we're achin to play!
+It's been two years and we're making plans to bring the thunder!
