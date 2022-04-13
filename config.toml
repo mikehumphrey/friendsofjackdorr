@@ -6,7 +6,7 @@ baseURL = "https://friendsofjackdorr.org"
 enableRobotsTXT = true
 googleAnalytics = "UA-154857416-1"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 title = "Friends of Jack Dorr"
 
 [params]
