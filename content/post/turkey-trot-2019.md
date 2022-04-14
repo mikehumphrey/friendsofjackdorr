@@ -5,7 +5,6 @@ date: 2019-11-27T09:00:00.000+00:00
 featured_image: "/uploads/TurkeyTrotInfo.jpg"
 tags: []
 omit_header_text: false
-draft: true
 
 ---
 # Supporting Children with Cancer
