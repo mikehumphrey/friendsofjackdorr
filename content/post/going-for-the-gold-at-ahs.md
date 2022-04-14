@@ -9,12 +9,4 @@ omit_header_text: false
 ---
 [Here's a video]()
 
-    <iframe
-        width="640"
-        height="480"
-        src="https://www.youtube.com/embed/H6gD_BzFKGg"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen
-    >
-    </iframe>
+[watch?v=H6gD_BzFKGg](https://www.youtube.com/watch?v=H6gD_BzFKGg "watch?v=H6gD_BzFKGg")
