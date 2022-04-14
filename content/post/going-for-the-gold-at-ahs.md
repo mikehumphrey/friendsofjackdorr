@@ -5,7 +5,6 @@ date: 2021-09-30T07:00:00+00:00
 featured_image: ''
 tags: []
 omit_header_text: false
-draft: true
 
 ---
 [Here's a video]()
