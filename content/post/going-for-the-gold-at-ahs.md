@@ -9,4 +9,4 @@ omit_header_text: false
 ---
 [Here's a video]()
 
-[watch?v=H6gD_BzFKGg](https://www.youtube.com/watch?v=H6gD_BzFKGg "watch?v=H6gD_BzFKGg")
+{{< youtube H6gD_BzFKGg >}}

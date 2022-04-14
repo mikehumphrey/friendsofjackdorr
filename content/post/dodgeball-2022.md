@@ -11,4 +11,3 @@ omit_header_text: false
 
 It's been two years and we're making plans to bring the thunder!
 
-{{< youtube w7Ft2ymGmfc >}}
