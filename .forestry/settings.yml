@@ -5,6 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/_index.md
+  label: Home
+- type: document
   path: content/about/_index.md
   label: About
 - type: document
@@ -23,7 +26,7 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.59.1
+  - HUGO_VERSION=0.96.0
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
