@@ -7,7 +7,8 @@ type: page
 date: 
 tags: []
 menu:
-  main: {}
+  main:
+    weight: 1
 
 ---
 Phone: 541-778-4960
