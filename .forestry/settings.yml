@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: document
   path: content/_index.md
@@ -13,6 +13,9 @@ sections:
 - type: document
   path: content/contact.md
   label: Contact
+- type: document
+  path: content/gallery/_index.md
+  label: Gallery
 - type: directory
   path: content/post
   label: Events
