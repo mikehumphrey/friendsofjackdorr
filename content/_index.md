@@ -1,12 +1,10 @@
 ---
 title: Welcome to Friends of Jack Dorr
-featured_image: "/uploads/Jack-Dorr-7.jpg"
+featured_image: "/uploads/jack-bunny-long.jpg"
 description: Friends of Jack Dorr is a non-profit organization established in 2019
   to preserve the memory of Jack Dorr.
 
 ---
-    [![This is my image](/uploads/Register%20Now%21%21%21.png)]({{< relref "/pages/content-post-dodgeball-2022-md/" >}})
-
 ![](/uploads/Jack-Dorr-2.jpg)
 
 Friends of Jack Dorr is a non-profit organization established in 2019 to preserve the memory of Jack Dorr, a boy from Ashland, OR who passed away after battling an aggressive brain tumor in 2014. He received treatment at OHSU’s Doernbecher Chidren’s Hospital, where neurosurgeons, neurooncologists and radiologists worked as a team to provide the best care and quality of life that they could given his diagnosis.
