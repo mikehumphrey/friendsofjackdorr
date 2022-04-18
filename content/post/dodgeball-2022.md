@@ -7,13 +7,13 @@ tags: []
 omit_header_text: false
 
 ---
-## Fourth Annual Dodgeball Tournament and Festival
+## Fourth Annual Dodgeball Tournament 
 
-to raise money for Doernbecher’s Brain Tumor Research Team and the Jack Dorr Scholarship!! This year (2022) would have been Jack's graduating year, and we are creating a scholarship in his honor. 
+to raise money for Doernbecher’s Brain Tumor Research Team and the Jack Dorr Scholarship!! This year (2022) would have been Jack's graduating year, and we are creating a scholarship in his honor.
 
 ## [Register Now!!!](https://forms.gle/SUWy5Y6yRrQrF8vH8 "Registration Form") Or [Download the Form](https://drive.google.com/file/d/1ATbbPHhvLVVyJBiUZ6chm3iKkL8n_7Mi/view?usp=sharing "Downlad the Form")
 
-We last hosted the dodgeball tournament in 2020--we had a fantastic time, and are so excited about a return to the Ashland High School Gym, filled with costumes, flying dodgeballs, families and community! Come join us for a fantastic day of fun-filled competition and silliness to support an important cause and a new scholarship for one of Jack's Class of 2022 classmates! 
+We last hosted the dodgeball tournament in 2020--we had a fantastic time, and are so excited about a return to the Ashland High School Gym, filled with costumes, flying dodgeballs, families and community! Come join us for a fantastic day of fun-filled competition and silliness to support an important cause and a new scholarship for one of Jack's Class of 2022 classmates!
 
 ![](/uploads/screen-shot-2022-04-17-at-9-13-04-pm.png)
 
