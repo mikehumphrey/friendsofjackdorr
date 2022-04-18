@@ -7,9 +7,9 @@ tags: []
 omit_header_text: false
 
 ---
-## Fourth Annual Dodgeball Tournament 
+## Fourth Annual Dodgeball Tournament
 
-to raise money for Doernbecher’s Brain Tumor Research Team and the Jack Dorr Scholarship!! This year (2022) would have been Jack's graduating year, and we are creating a scholarship in his honor.
+to raise money for the Jack Dorr Scholarship and Doernbecher’s Brain Tumor Research Team!! This year (2022) would have been Jack's graduating year, and we are creating a scholarship in his honor.
 
 ## [Register Now!!!](https://forms.gle/SUWy5Y6yRrQrF8vH8 "Registration Form") Or [Download the Form](https://drive.google.com/file/d/1ATbbPHhvLVVyJBiUZ6chm3iKkL8n_7Mi/view?usp=sharing "Downlad the Form")
 
