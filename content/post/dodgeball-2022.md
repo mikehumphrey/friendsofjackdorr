@@ -1,7 +1,7 @@
 ---
 title: Jack's Dodgeball Tournament 2022
 description: 'Super fun event for the whole family. '
-date: 2022-05-15T19:00:00+00:00
+date: 2022-04-18T19:00:00+00:00
 featured_image: "/uploads/4p3a6436-2.jpg"
 tags: []
 omit_header_text: false
