@@ -5,7 +5,7 @@ description: Friends of Jack Dorr is a non-profit organization established in 20
   to preserve the memory of Jack Dorr.
 
 ---
-<a href="https://friendsofjackdorr.org/post/jack-s-dodgeball-olympics-2020/" class="db grow"><img src="https://friendsofjackdorr.org/uploads/Register%20Now%21%21%21.png" class="img" alt="image from Jack's Dodgeball Olympics 2020"></a>
+    [![This is my image](/uploads/Register%20Now%21%21%21.png)]({{< relref "/pages/content-post-dodgeball-2022-md/" >}})
 
 ![](/uploads/Jack-Dorr-2.jpg)
 
@@ -15,7 +15,7 @@ This organization serves to support the research of the Pediatric Brain Tumor Re
 
 In addition to the Research Team, we have also provided funds for the Dorr Family Library at Helman, a place that Jack loved to spend time. He was an avid reader and passed any an hour following the adventures of Frodo or Harry Potter, immersing himself in everything from Redwall to Calvin and Hobbes.
 
-We are also offering a scholarship in 2022, as this would have been Jack's graduating year. 
+We are also offering a scholarship in 2022, as this would have been Jack's graduating year.
 
 In order to honor Jack’s lively and playful spirit, we have hosted dodgeball tournaments in February, near the date of his Valentine’s Day birthday. This year, our event will take place on Sunday, May 15 at Ashland High School. We work together with the Ashland High School leadership team, several sponsors and donors and community members to bring people together in the spirit of community and playful competition. In previous years, we had the Ashland Fire Department form two teams along with 20+ other teams to raise money and play together!
 
