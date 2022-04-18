@@ -7,7 +7,7 @@ tags: []
 omit_header_text: false
 
 ---
-## Second Annual Dodgeball Tournament and Festival
+## Third Annual Dodgeball Tournament and Festival
 
 to raise money for Doernbecher’s Brain Tumor Research Team and the Dorr Family Library at Helman Elementary!
 
