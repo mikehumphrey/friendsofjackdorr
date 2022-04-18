@@ -1,6 +1,6 @@
 ---
 title: Welcome to Friends of Jack Dorr
-featured_image: "/uploads/jack-bunny-long.jpg"
+featured_image: "/uploads/banner-alex-jack.png"
 description: Friends of Jack Dorr is a non-profit organization established in 2019
   to preserve the memory of Jack Dorr.
 
