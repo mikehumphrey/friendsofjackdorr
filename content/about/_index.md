@@ -13,5 +13,6 @@ Friends of Jack Dorr is a non-profit organization established in 2019 to preserv
   * When Jack Dorr battled an aggressive brain tumor, the treatment he received at Doernbecher Children’s Hospital in Portland, OR, gave him and his family what they needed...time. “I feel very strongly that the work Doernbecher did (surgery, radiation, oncology) gave us many extra months with Jack, as I think he probably would have died almost a year sooner than he did,” said his mother, Trish. “Jack may never have had a chance at recovery, but they bought us time, and that year was one of the most important in my life.”
 * Supporting children and their families who are affected by Pediatric Cancer.
 * Contributing to children’s libraries such as the one at Helman Elementary, where Jack was a student. He was an avid reader and spent hours with a book in his lap!
+* Supporting Ashland High School students through the Jack Dorr Scholarship
 
-Donate Now by visiting the [Jack Dorr PayPal Pool](https://paypal.me/pools/c/8jSnkG8SBb "Jack Dorr PayPal Pool")
+Donate Now by visiting the [Jack Dorr PayPal Pool ](https://www.paypal.com/pools/c/8IFtIZC1Q8 "PayPal Pool")or our [Give Lively Page](https://secure.givelively.org/donate/friends-of-jack-dorr/jack-s-dodgeball-tourney-2022 "Give Lively")
