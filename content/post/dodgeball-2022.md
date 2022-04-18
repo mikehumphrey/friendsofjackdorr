@@ -15,11 +15,13 @@ to raise money for Doernbecher’s Brain Tumor Research Team and the Jack Dorr S
 
 We last hosted the dodgeball tournament in 2020--we had a fantastic time, and are so excited about a return to the Ashland High School Gym, filled with costumes, flying dodgeballs, families and community! Come join us for a fantastic day of fun-filled competition and silliness to support an important cause and a new scholarship for one of Jack's Class of 2022 classmates! 
 
-![](/uploads/Dodgeball Planning 2019_3.jpg)
+![](/uploads/screen-shot-2022-04-17-at-9-13-04-pm.png)
 
 ![](/uploads/4p3a6310-2.jpg)
 
-![](/uploads/4p3a6411-2.jpg)![](/uploads/4p3a6517-2.jpg)
+![](/uploads/4p3a6411-2.jpg)
+
+![](/uploads/4p3a6517-2.jpg)
 
 It's been two years and we're making plans to bring the thunder!
 
